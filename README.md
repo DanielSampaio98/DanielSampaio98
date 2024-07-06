@@ -15,7 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Python, I'm passionate about discovering new things and using them to create high-quality solutions. Today, I am focused on project development.</p>
+<p align="center">Como programador front-end, sou apaixonado por criar interfaces incríveis usando HTML, CSS e JavaScript. Meu objetivo é proporcionar uma experiência de usuário fluida e agradável, transformando designs em elementos interativos e funcionais..</p>
 
 
 
