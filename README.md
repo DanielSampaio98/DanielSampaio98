@@ -15,7 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="center">Como programador front-end, sou apaixonado por criar interfaces incríveis. Meu objetivo é proporcionar uma experiência de usuário fluida e agradável, transformando designs em elementos interativos e funcionais.</p>
+<p align="center">Como programador front-end, sou apaixonado por transformar designs em interfaces interativas, proporcionando uma experiência de usuário fluida e agradável.</p>
 
 
 
